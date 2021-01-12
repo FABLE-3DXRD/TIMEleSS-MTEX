@@ -23,4 +23,6 @@ The TIMEleSS matlab plotting tools will
  * fit an ODF to the orientation list
  * plot pole figures and inverse pole figures, coloring the points according to the pole figure, inverse pole figure, or ODF intensity.
  
- 
+The main codes are [plotOrientationsIPF.m](plotOrientationsIPF.m) for plotting inverse pole figures, and [plotOrientationsPF.m](plotOrientationsPF.m) for plotting  pole figures. There are a few examples at the top of each file.
+
+In all examples 'ss' is sample symmetry and 'cs' are crystal symmetry, as commonly used in MTeX. They need to be defined before loading orientations.
