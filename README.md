@@ -1,4 +1,4 @@
-# TIMEleSS-Matlab
+# TIMEleSS-MTEX
 
 TIMEleSS
 
